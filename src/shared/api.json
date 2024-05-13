@@ -41,6 +41,8 @@
   "URL_REPOSITORY": "api/v1/repository",
   "URL_CONFIG_PROPERTY": "api/v1/configProperty",
   "URL_NOTIFICATION_PUBLISHER": "api/v1/notification/publisher",
+  "URL_NOTIFICATION_PUBLISHER_SCHEDULED": "api/v1/notification/publisher/scheduled",
+  "URL_NOTIFICATION_PUBLISHER_EVENT": "api/v1/notification/publisher/event",
   "URL_NOTIFICATION_RULE": "api/v1/notification/rule",
   "URL_LDAP_GROUPS": "api/v1/ldap/groups",
   "URL_LDAP_MAPPING": "api/v1/ldap/mapping",
@@ -56,5 +58,5 @@
   "URL_ACL_TEAM": "api/v1/acl/team",
   "URL_VEX": "api/v1/vex",
   "URL_OSV_ECOSYSTEM": "api/v1/integration/osv/ecosystem",
-  "URL_SCHEDULEDNOTIFICATION_CREATE": "api/v1/schedulednotification/create"
+  "URL_SCHEDULED_NOTIFICATION_RULE": "api/v1/schedulednotification/rule"
 }
