@@ -67,6 +67,7 @@
     "create_template": "Vorlage erstellen",
     "create_user": "Benutzer erstellen",
     "cron": "Cron-Ausdruck",
+    "cron_help": "Der Cron-Ausdruck muss dem folgenden Muster folgen: '[*] * * * * *' -> [(optional) Sekunden], Minuten, Stunden, Tag des Monats, Monat, Tag der Woche.\nUnterstützte Sonderzeichen: * / , L\n(z. B. '0 0 0 * * 5L' -> um Mitternacht am letzten Freitag jeden Monats, '0 10 1,5,10 * *' -> um 10:00 Uhr am 1., 5. und 10. Tag jeden Monats)",
     "default": "Standard",
     "default_template_restored": "Standardvorlagen wiederhergestellt",
     "defectdojo": "DefektDojo",
