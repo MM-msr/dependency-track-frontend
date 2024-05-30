@@ -470,6 +470,7 @@
     "epss": "EPSS",
     "epss_percentile": "EPSS-Perzentil",
     "exact": "Genau",
+    "executed": "Ausgeführt",
     "exploit_predictions": "Exploit-Vorhersagen",
     "exploitable": "Ausnutzbar",
     "export_vdr": "VDR exportieren",
