@@ -54,5 +54,7 @@
   "URL_USER_OIDC": "api/v1/user/oidc",
   "URL_USER_OIDC_LOGIN": "api/v1/user/oidc/login",
   "URL_USER_SELF": "api/v1/user/self",
-  "URL_VEX": "api/v1/vex"
+  "URL_VEX": "api/v1/vex",
+  "URL_VULNERABILITY": "api/v1/vulnerability",
+  "WITH_CREDENTIALS": ""
 }
